@@ -1,0 +1,4 @@
+TypeError: Cannot read property 'address' of null
+    at ProjectsWatcher.handleBlock (/tmp/.mount_ganachShhIEP/resources/static/node/truffle-integration/projectsWatcher.js:208:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at Subscription.<anonymous> (/tmp/.mount_ganachShhIEP/resources/static/node/truffle-integration/projectsWatcher.js:57:9)
